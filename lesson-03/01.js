@@ -1,7 +1,5 @@
-let x = 5;
-x += 3; 
-x *= 2; 
-x -= 4; 
-x /= 3; 
-
-console.log(x); 
+let number1 = Math.floor(Math.random() * 100)
+console.log (nubmber1++);
+console.log (++nubmber1);
+console.log (nubmber1--);
+console.log (--nubmber1);
