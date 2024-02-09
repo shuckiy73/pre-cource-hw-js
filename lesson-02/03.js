@@ -5,4 +5,4 @@ const giveMeRightNumbers = (value1, value2, maximum) => {
     console.log("Something wrong!");
   }
 };
-https://shuckiy73.github.io/pre-cource-hw-js/(12, 10, 10);
+giveMeRightNumbers(201, 100, 200);
